@@ -1,0 +1,161 @@
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+h1{
+    font-size: 50px;
+    color:#363958;
+    
+}
+
+ p{
+    color: dimgray;
+}
+
+.orange-highlight{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+   
+}
+.half-width img{
+    width: 60%;
+}
+
+section{
+    height: 500px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #4803e9, #ec0c31);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+    
+}
+
+.project-width{
+    width: 20%;
+    float: left;
+    margin-left:8%;
+    padding-left: 2%;
+    
+    
+}
+
+.project-width img{
+    width:80%;
+    
+}
+
+#center{
+    text-align: center;
+    margin-bottom: 10%;
+    
+}
+#color{
+    color: orangered;
+}
+#shadow{
+    background-color:#fafafae8;
+    height: 600px;   
+}
+.box{
+     box-shadow: 5px 5px 5px #c4c2c2;
+     height: 60%;
+     border-radius: 10px;
+     background-color: white;
+}
+
+
+
+.background{
+    background-image: url("images/Group_33094_1.png");
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+   height: 250px;
+   border-radius: 10px;
+}   
+
+.contact{
+    background-image: url("images/Group_33094_1.png");
+    background-position: center;
+    background-size: 40%;
+    background-repeat: no-repeat;
+    margin-bottom: 600px;
+    
+}
+
+
+#work{
+    text-align: center;
+   margin-right: 500px;
+   margin-top: 100px;
+   padding-top: 240px;
+   color:white;
+   font-size: 25px;
+}
+
+.chat a{
+
+    margin-left: 1100px;
+    text-decoration: none;
+    font-size:25px ;
+    color: tomato;
+    padding-top: 250px;
+    float: center;
+    
+
+}
+.footer h1{
+    text-align: center;
+    padding-top: 150px;
+  
+}
+.footer h2{
+    text-align: center;
+    /* margin-top: 80px; */
+}
+.footer h3{
+    text-align: center;
+    color: gray;
+    font-size: 18px;
+}
+.footer p{
+    text-align: center;
+    margin: 50px 20%;
+    color: black;
+}
+.footer img{
+    height: 150px;
+    width: 150px;
+    margin: 0 45%;
+}
+.leave-meassage{
+    height: 150px;
+    width: 600px;
+    background-image: linear-gradient(to right, #475ee0, #ff1872);
+    margin: 0 auto;
+    border-radius: 10px;
+}
+.leave-meassage p{
+    color: white;
+    padding-top: 30px;
+}
+.leave-meassage h2{
+    color: white;
+    font-weight: 500;
+    margin-top: -25px;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
